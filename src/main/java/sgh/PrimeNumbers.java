@@ -20,7 +20,7 @@ public class PrimeNumbers {
             CheckingValue++;
         }
         
-        System.out.println("n = " + n + " " + output);
+        System.out.println(output);
     }
 
 
