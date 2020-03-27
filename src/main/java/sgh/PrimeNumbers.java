@@ -21,8 +21,6 @@ public class PrimeNumbers {
         }
         
         System.out.println("n = " + n + " " + output);
-
-        System.out.println("2, 3, 5, 7");
     }
 
 
